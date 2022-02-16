@@ -58,6 +58,10 @@ If you love to work with other developers and copy some tips from them, git clon
  
  - **Git add**
 
+To add a single file that you specifically want you can use the command `git add <file>`
+
+To add all the files at once you use the command `git add -A`
+
 
 
 
