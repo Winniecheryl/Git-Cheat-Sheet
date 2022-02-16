@@ -4,6 +4,8 @@
 
 ***I will share with you both screenshots and codes for clarity.***
 
+## 1. **Creating a repository.**
+
 Let me take you through the steps for creating a new repository on github, if you have never used Command prompt to create a repository, this lesson might be what you need.
 
 -The first command is the `git init` command. This will create a new git repository or convert a project you have been working on into a git repository. It initializes an empty repository.
@@ -23,3 +25,13 @@ Let me take you through the steps for creating a new repository on github, if yo
 Here is a screenshot of what I have done on my command prompt to create the repository and the readme file you are currently reading;
 
 ![Screenshot (267)](https://user-images.githubusercontent.com/58620711/154179425-1d4e88ac-f844-4de5-8040-e9006e987e25.png)
+
+
+##  2. **Common git commands**
+
+Now that you can create a repository, add a readme file, make a commit and push, here are some git commnads that should be knowing as a developer.
+
+These are commands that you will find yourself using almost everytime as you get more familiar with git and github.
+
+- **Git Clone**   
+If you love to work with other developers and copy some tips from them, git clone is definetely for you. It allows you to copy someone elses code to your own working space, and thereafter, you can make all the changes and modification you desire.
