@@ -62,6 +62,24 @@ To add a single file that you specifically want you can use the command `git add
 
 To add all the files at once you use the command `git add -A`
 
+- **git pull**
+
+This commnad will get information/updates from your remote repository, and it will then use what is in your remote repository to make updates on your local repository so that you have matching content on both remote and local repository ` git pull <remote>`
+
+- **git revert**
+
+This is a commnad that you use to delete any thing you have done but you nolonger in need of, however, you should be keen on exactly what you are deleting because you mind end up deleting something important. To see options of what you can delete use the command ` git log -- oneline`
+
+Then use the command `git revert<value>` to delete. See an example in the screenshot below
+
+
+![Screenshot (290)](https://user-images.githubusercontent.com/58620711/154220701-8aa47f2d-0b9a-4d72-8cb8-d157a93a5e68.png)
+
+
+- **Git merge**
+
+We have discussed git checkout command, it is quite essential in this final command. When you want to merge two branches, you first have to commit chnages in the branch you are currently working on, and then when you finally want to merge, you can happily use the command ` git merge <branch-name>`
+
 
 
 
