@@ -41,3 +41,13 @@ If you love to work with other developers and copy some tips from them, git clon
 
 
 ![Screenshot (276)](https://user-images.githubusercontent.com/58620711/154206907-d021a26c-3c1a-4cb6-8c50-a75916f36cf4.png)
+
+- **Git Checkout**
+ 
+ At some point you will need to switch from one branch to another, to do so use the command `git checkout <name-of-your-branch>`
+ 
+ However, do not just switch branches without making sure that you have made commit on the branch you were working on.
+ 
+ - **Git Status**
+
+ This command will give you all the details about the branch you are in. 
