@@ -51,3 +51,13 @@ If you love to work with other developers and copy some tips from them, git clon
  - **Git Status**
 
  This command will give you all the details about the branch you are in. 
+ 
+ I have written the commnad and this is the current information of the branch I am at. Try it on your machine.
+ 
+ ![Screenshot (285)](https://user-images.githubusercontent.com/58620711/154209390-b2e4bec1-9981-4ef6-9ef8-d0898238a0ec.png)
+ 
+ - **Git add**
+
+
+
+ 
