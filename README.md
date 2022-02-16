@@ -29,12 +29,12 @@ Here is a screenshot of what I have done on my command prompt to create the repo
 
 ##  2. **Common Git commands**
 
-Now that you can create a repository, add a readme file, make a commit and push, here are some git commnads that should be knowing as a developer.
+Now that you can create a repository, add a readme file, make a commit and push; here are some git commands that a developer should be knowing.
 
 These are commands that you will find yourself using almost everytime as you get more familiar with git and github.
 
 - **Git Clone**   
-If you love to work with other developers and copy some tips from them, git clone is definetely for you. It allows you to copy someone elses code to your own working space, and thereafter, you can make all the changes and modification you desire. Here is are two screenshots of how i have done it; in the first screenshot, i have copied the link, in the second screenshot, I have written the command in my command prompt
+If you love to work with other developers and copy some tips from them, git clone is definetely for you. It allows you to copy someone elses code to your own working space, and thereafter, you can make all the changes and modification you desire. Here are two screenshots of how I have done it; in the first screenshot, I have copied the link of the code I want to modify, in the second screenshot, I have written the command in my command prompt
 
 
 ![Screenshot (279)](https://user-images.githubusercontent.com/58620711/154206843-dde98044-535f-48cd-903b-e882c0913364.png)
@@ -52,15 +52,15 @@ If you love to work with other developers and copy some tips from them, git clon
 
  This command will give you all the details about the branch you are in. 
  
- I have written the commnad and this is the current information of the branch I am at. Try it on your machine.
+ I have written the command and this is the current information of the branch I am at. Try it on your machine.
  
  ![Screenshot (285)](https://user-images.githubusercontent.com/58620711/154209390-b2e4bec1-9981-4ef6-9ef8-d0898238a0ec.png)
  
  - **Git add**
 
-To add a single file that you specifically want you can use the command `git add <file>`
+To add a single file that you specifically want, you can use the command `git add <file>`
 
-To add all the files at once you use the command `git add -A`
+To add all the files at once, use the command `git add -A`
 
 - **git pull**
 
@@ -68,7 +68,7 @@ This commnad will get information/updates from your remote repository, and it wi
 
 - **git revert**
 
-This is a commnad that you use to delete any thing you have done but you nolonger in need of, however, you should be keen on exactly what you are deleting because you mind end up deleting something important. To see options of what you can delete use the command ` git log -- oneline`
+This is a commnad that deletes any thing you have done but you nolonger in need of, however, you should be keen on exactly what you are deleting because you might end up deleting something important. To see options of what you can delete use the command ` git log -- oneline`
 
 Then use the command `git revert<value>` to delete. See an example in the screenshot below
 
